@@ -11,3 +11,4 @@
 改动基于baseline的tensorflow版本
 
 比赛总结详见[这篇文章](http://zedom1.top/2018/05/22/RC_DuReader/)
+https://www.jianshu.com/p/13fa49df349f
